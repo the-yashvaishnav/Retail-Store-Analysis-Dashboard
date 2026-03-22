@@ -14,3 +14,4 @@ This project presents an interactive dashboard to analyze retail store data, inc
 - Region-wise Profit Distribution
 
 ## 📷 Screeshots
+https://github.com/the-yashvaishnav/Retail-Store-Analysis-Dashboard/blob/main/Retail%20Store%20Analysis%20Dashboard.png
